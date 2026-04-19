@@ -1,3 +1,5 @@
+> Read the full article on Numoru: https://numoru.com/en/contributions/recepcionista-ia-vapi-pipecat-espanol
+
 # voice-agent-es
 
 Spanish-language AI receptionist (Pipecat + Deepgram + Cartesia + Qdrant + Langfuse).
